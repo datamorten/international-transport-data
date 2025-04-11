@@ -1,4 +1,4 @@
-# International transport support data documentation 
+# International transport support data
 *Applications from 2023 and 2024 for the Danish international transport support fund owned by Statens Kunstfond and administered by the genre organisations Art Music Denmark, JazzDanmark, ROSA, and Tempi. Data is organized like a relational database with four tables (applications, activities, participants and reports - the description of which can be read below). 
 They all share the same primary key called j_nr. The relationship between applications and the other tables is a one-to-many relationship - in practice though, the relationship to reports is a one-to-one relationship.*
 
